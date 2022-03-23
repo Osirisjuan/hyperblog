@@ -6,5 +6,7 @@ jilotepec estado de mexico.
 
 master 1
 
+master 2
+
 estudio en el tecnologico de julotepec la carrera de ingenieria 
 en sistemas computacionales
