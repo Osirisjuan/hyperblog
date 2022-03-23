@@ -12,4 +12,6 @@
 >>>* Una cuenta en git hub
 >>>* La herramienta para elaborar este documento que se encuentra en la siguiente URL https://pandao.github.io/editor.md/en.html
 
+>>>* Creado por JJCP
+
 Un blog increible para el curso de git
